@@ -1,6 +1,6 @@
 # fid
 
-> File Identification Tool using magic numbers, polyglot detection, heuristic analysis, YARA and binwalk integration.
+> File Identification tool using magic numbers, polyglot detection, heuristic analysis, YARA and binwalk integration.
 
 ![Python](https://img.shields.io/badge/python-3.x-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
