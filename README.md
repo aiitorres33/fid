@@ -138,7 +138,7 @@ Not a replacement for antivirus or sandboxing
 Heuristic analysis is not definitive malware detection
 
 ### License
-MIT License
+MIT License.
 
 ### Author
 Created by Aarón Israel Ibarra Torres
