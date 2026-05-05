@@ -40,7 +40,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/aiitorres33/fid.git
+git clone https://github.com/aiitorres/fid.git
 cd fid
 python3 fid.py --help
 ```
